@@ -1,0 +1,7 @@
+<html>
+ <head>
+  <title>Hard Mode Minecraft - Сервер майнкрафт с выживанием в постапокалпсисе</title>
+ </head>
+ <body>
+ <p>hello, world!</p>
+ </body>
